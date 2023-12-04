@@ -1,4 +1,4 @@
-# Data-Portfolio
+# Data Portfolio
 This contains various personal projects that I have completed or are constantly improving to enhance my technical Skills
 
 ## Machine Learning
