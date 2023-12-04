@@ -4,7 +4,7 @@ This contains various personal projects that I have completed or are constantly 
 ## Machine Learning
 - King County Housing Sales
     - Created a predictive model using Linear Regression and Polynomial Regression while implementing Ridge Regression to mediate overfitting 
-    - Utilized cross validation to help score out predictive model
+    - Utilized cross validation to help score our predictive model
 
 ## Dashboards with Dash
 - Built web applications with the purpose of creating interactive dashboards/graphs for multiple datasets 
