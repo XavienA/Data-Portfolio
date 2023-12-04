@@ -4,7 +4,10 @@ This contains various personal projects that I have completed or are constantly 
 ## Machine Learning
 - Project coming shortly...
 
-## Data Analysis
+## Dashboards with Dash
+- Built web applications with the purpose of creating interactive dashboards/graphs for multiple datasets 
+
+## Data Analysis 
 -  Performed EDA on Stack Overflows 2019 Survey to indentify emerging technical skills in the upcoming years
    - Purpose: Keep up to date with current technical skills needed to join this competitive job market in the Tech Industry
     - Further Improvements needed
